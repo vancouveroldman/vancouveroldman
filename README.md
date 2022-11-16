@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @vancouveroldman
+- 👀 I’m interested in data analytics
+- 🌱 I’m currently learning business analytics
